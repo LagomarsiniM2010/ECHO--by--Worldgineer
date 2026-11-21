@@ -87,7 +87,7 @@ with open("ECHO.png", "rb") as imagen:
 st.markdown(f"""
 <div style="display: flex; align-items: center; gap: 5px;">
     <img src="data:image/png;base64,{logo}" width="200">
-    <h1 style="font-size: 70px; position: relative; top: 10px;">ECHO</h1>
+    <h1 style="font-size: px; position: relative; top: 10px;">ECHO</h1>
 </div>
 """, unsafe_allow_html=True)
 
